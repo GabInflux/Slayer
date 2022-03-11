@@ -12,7 +12,7 @@
 
 ![MainSlayer](https://user-images.githubusercontent.com/101132662/157988802-3fcb0d7c-479f-4bf4-ae34-b9235aeed564.PNG)
 
-***Result: (Endlessly) ***
+***Result: (Endlessly)***
 
 ![ResultSlayer](https://user-images.githubusercontent.com/101132662/157989113-4d590858-1bdc-47d1-8384-7e39cf0f0387.PNG)
 
