@@ -18,7 +18,7 @@
 
 ## Tutorial
 
-*1*. Start the program with python 3.  
+*1*. Start the program with *launch.bat*.  
 *2*. Get the webhook URL: You must have permission to manage webhooks on servers, then go to integration and copy the link. Copy it and paste it in the cmd of the code.  
 *3*. Enjoy your webhook spam !  
 
